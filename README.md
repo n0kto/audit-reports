@@ -4,6 +4,10 @@
 
 Audits made on Cyfrin Codehawks plateform.
 
+Report coming soon:
+
+- The Standard
+
 ### First Flight
 
 Mock audit to learn and practice auditing.
@@ -11,3 +15,7 @@ Mock audit to learn and practice auditing.
 ## Code4rena
 
 Audits made on Code4rena plateform.
+
+Report coming soon:
+
+- Salty.IO
