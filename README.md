@@ -12,6 +12,10 @@ Report coming soon:
 
 Mock audit to learn and practice auditing.
 
+Report coming soon:
+
+- Math Masters
+
 ## Code4rena
 
 Audits made on Code4rena plateform.
