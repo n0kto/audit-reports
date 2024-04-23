@@ -1,10 +1,12 @@
 # Audit reports by n0kto
 
+For simplicity and readability, only the validated findings are in the following reports.
+
 ## Codehawks
 
 Audits made on Cyfrin Codehawks plateform.
 
-Report coming soon:
+Reports coming soon:
 
 - Beanstalk part 2
 - Beanstalk: Dive into Basin
@@ -13,7 +15,7 @@ Report coming soon:
 
 Mock audit to learn and practice auditing.
 
-Report coming soon:
+Reports coming soon:
 
 - Baba Marta
 - Airdropper
@@ -22,7 +24,7 @@ Report coming soon:
 
 Audits made on Code4rena plateform.
 
-Report coming soon:
+Reports coming soon:
 
 - Ai Arena
 - Dyad
