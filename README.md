@@ -6,7 +6,8 @@ Audits made on Cyfrin Codehawks plateform.
 
 Report coming soon:
 
-- The Standard
+- Beanstalk part 2
+- Beanstalk: Dive into Basin
 
 ### First Flight
 
@@ -14,7 +15,8 @@ Mock audit to learn and practice auditing.
 
 Report coming soon:
 
-- Math Masters
+- Baba Marta
+- Airdropper
 
 ## Code4rena
 
@@ -22,4 +24,5 @@ Audits made on Code4rena plateform.
 
 Report coming soon:
 
-- Salty.IO
+- Ai Arena
+- Dyad
